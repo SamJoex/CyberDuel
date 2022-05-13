@@ -1,0 +1,10 @@
+.root {
+	-fx-background-color: #008080;
+}
+
+.button {
+	-fx-font-size: 24 pt;
+	-fx-background-radius: 16;
+	-fx-font-family: "Tahoma";
+	-fx-font-weight: BOLD;
+}
